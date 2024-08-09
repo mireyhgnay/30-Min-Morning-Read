@@ -18,4 +18,4 @@
 
 - [2024-08-06](https://github.com/mireyhgnay/30-Min-Morning-Read/blob/main/You%20Don't%20Know%20JS/2024-08-06.md)
 
-- [2024-08-09]()
+- [2024-08-09](https://github.com/mireyhgnay/30-Min-Morning-Read/blob/main/You%20Don't%20Know%20JS/2024-08-09.md)
